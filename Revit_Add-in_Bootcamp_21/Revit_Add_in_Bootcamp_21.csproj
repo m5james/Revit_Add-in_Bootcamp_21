@@ -55,9 +55,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="Week_2_Notes.cs" />
+    <Compile Include="Week_2_CSV_Challenge.cs" />
+    <Compile Include="Command5.cs" />
+    <Compile Include="Week_2_Challenge.cs" />
+    <Compile Include="Week_1_Notes.cs" />
     <Compile Include="Utils\ButtonDataClass.cs" />
-    <Compile Include="Command2.cs" />
-    <Compile Include="Module01Challenge.cs" />
+    <Compile Include="Week_1_Challenge.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

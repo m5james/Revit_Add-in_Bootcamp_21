@@ -1,29 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
-  <AddIn Type="Command">
-    <Text>Revit_Add-in_Bootcamp_21 - Module 01 Challenge</Text>
-    <Description>Some description for Revit_Add-in_Bootcamp_21</Description>
-    <Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
-    <FullClassName>Revit_Add_in_Bootcamp_21.Module01Challenge</FullClassName>
-    <ClientId>187fac9c-7517-4c34-bb37-849a5ebdbecd</ClientId>
-    <VendorId>com.YOUR COMPANY NAME</VendorId>
-    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
-  </AddIn>
-  <AddIn Type="Command">
-    <Text>Revit_Add-in_Bootcamp_21 - Command 2</Text>
-    <Description>Some description for Revit_Add-in_Bootcamp_21</Description>
-    <Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
-    <FullClassName>Revit_Add_in_Bootcamp_21.Command2</FullClassName>
-    <ClientId>7f382844-af05-41fb-883b-6783d0b7893b</ClientId>
-    <VendorId>com.YOUR COMPANY NAME</VendorId>
-    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
-  </AddIn>
-  <AddIn Type="Application">
-    <Name>Revit_Add-in_Bootcamp_21</Name>
-    <Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
-    <FullClassName>Revit_Add_in_Bootcamp_21.App</FullClassName>
-    <ClientId>01c96ee4-cbf2-453a-bd41-b9c495a5f550</ClientId>
-    <VendorId>com.YOUR COMPANY NAME</VendorId>
-    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
-  </AddIn>
+	<AddIn Type="Command">
+	<Text>Revit_Add-in_Bootcamp_21 - Week_2_CSV_Challenge</Text>
+		<Description>Some description for CBE21_Template001</Description>
+		<Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
+		<FullClassName>Revit_Add_in_Bootcamp_21.Week_2_CSV_Challenge</FullClassName>
+		<ClientId>F3F30435-E54B-4360-87B7-7082C414EF91</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>Revit_Add-in_Bootcamp_21 - Week_1_Challenge</Text>
+		<Description>Some description for CBE21_Template001</Description>
+		<Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
+		<FullClassName>Revit_Add_in_Bootcamp_21.Week_1_Challenge</FullClassName>
+		<ClientId>E33D2DE2-3D84-48B3-81F8-4426415A1C62</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>Revit_Add-in_Bootcamp_21 - Week_1_Notes</Text>
+		<Description>Some description for CBE21_Template001</Description>
+		<Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
+		<FullClassName>Revit_Add_in_Bootcamp_21.Week_1_Notes</FullClassName>
+		<ClientId>908DFE2B-7D5F-466C-880B-FACD02265354</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>Revit_Add-in_Bootcamp_21 - Week_2_Notes</Text>
+		<Description>Some description for CBE21_Template001</Description>
+		<Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
+		<FullClassName>Revit_Add_in_Bootcamp_21.Week_2_Notes</FullClassName>
+		<ClientId>3438A3DB-0022-45F9-8608-84892B8A10A6</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>Revit_Add-in_Bootcamp_21 - Week_2_Challenge</Text>
+		<Description>Some description for CBE21_Template001</Description>
+		<Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
+		<FullClassName>Revit_Add_in_Bootcamp_21.Week_2_Challenge</FullClassName>
+		<ClientId>9329C5A5-90AB-4C4A-A740-0AD8D22D3C1C</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>Revit_Add-in_Bootcamp_21 - Command 5</Text>
+		<Description>Some description for CBE21_Template001</Description>
+		<Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
+		<FullClassName>Revit_Add_in_Bootcamp_21.Command5</FullClassName>
+		<ClientId>A6119AF5-5460-4479-B2A6-947DADF982F9</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>	
+	<AddIn Type="Application">
+		<Name>Revit_Add-in_Bootcamp_21</Name>
+		<Assembly>Revit_Add-in_Bootcamp_21.dll</Assembly>
+		<FullClassName>Revit_Add_in_Bootcamp_21.App</FullClassName>
+		<ClientId>8ff0d313-78b2-4263-983c-7ead9632b071</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
 </RevitAddIns>

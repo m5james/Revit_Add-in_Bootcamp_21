@@ -14,7 +14,7 @@ using System.Reflection;
 namespace Revit_Add_in_Bootcamp_21
 {
     [Transaction(TransactionMode.Manual)]
-    public class Command2 : IExternalCommand
+    public class Command5 : IExternalCommand
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
@@ -24,9 +24,7 @@ namespace Revit_Add_in_Bootcamp_21
             // this is a variable for the current Revit model
             Document doc = uiapp.ActiveUIDocument.Document;
 
-            // Your code goes here
-
-
+           
             return Result.Succeeded;
         }
 
